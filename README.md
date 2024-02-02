@@ -11,22 +11,29 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+TODO: An as
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Introducing "NiceColors" package for pub.dev – your go-to solution for adding a touch of elegance to your Flutter projects! This lightweight package features the delightful "NiceColors" class, a curated collection of aesthetically pleasing colors that will instantly elevate the visual appeal of your app.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+In your flutter project add the dependency:
+
+```yaml
+dependencies:
+  nice_colors: any
+```
+
+Import the package:
+
+```dart
+import 'package:nice_colors/nice_colors.dart';
+```
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
 
 ```dart
 const like = 'sample';
@@ -34,6 +41,4 @@ const like = 'sample';
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+For better understanding, refer to the [example project](https://github.com/MatejaDjokic/nice-colors) in the official git repo.
