@@ -1,6 +1,6 @@
 name: nice_colors
 description: "Introducing NiceColors package - your go-to solution for adding a touch of elegance to your Flutter projects! This lightweight package features the delightful NiceColors class, a curated collection of aesthetically pleasing colors that will instantly elevate the visual appeal of your app."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/MatejaDjokic/nice-colors
 repository: https://github.com/MatejaDjokic/nice-colors
 
