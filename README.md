@@ -11,8 +11,6 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: An as
-
 ## Features
 
 Introducing "NiceColors" package for pub.dev – your go-to solution for adding a touch of elegance to your Flutter projects! This lightweight package features the delightful "NiceColors" class, a curated collection of aesthetically pleasing colors that will instantly elevate the visual appeal of your app.
