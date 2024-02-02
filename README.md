@@ -1,14 +1,10 @@
 ## Features
 
-```
 Introducing NiceColors package - your go-to solution for adding a touch of elegance to your Flutter projects! This lightweight package features the delightful NiceColors class, a curated collection of aesthetically pleasing colors that will instantly elevate the visual appeal of your app.
-```
 
 ## Getting started
 
-```
 In your flutter project add the dependency:
-```
 
 ```yaml
 dependencies:
