@@ -32,10 +32,12 @@ import 'package:nice_colors/nice_colors.dart';
 
 ## Usage
 
-
 ```dart
 const like = 'sample';
 ```
+
+## Codebase
+![](images/1.png)
 
 ## Additional information
 
