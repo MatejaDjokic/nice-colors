@@ -1,6 +1,6 @@
 ## Features
 
-Introducing NiceColors package - your go-to solution for adding a touch of elegance to your Flutter projects! This lightweight package features the delightful NiceColors class, a curated collection of aesthetically pleasing colors that will instantly elevate the visual appeal of your app.
+Introducing NiceColors - your go-to solution for adding a touch of elegance to your Flutter projects!
 
 ## Getting started
 
@@ -8,7 +8,7 @@ In your flutter project add the dependency:
 
 ```yaml
 dependencies:
-  nice_colors: any
+  nice_colors: ^1.1.2
 ```
 
 Import the package:
@@ -20,11 +20,7 @@ import 'package:nice_colors/nice_colors.dart';
 ## Usage
 
 ```dart
-const like = 'sample';
 ```
-
-## Codebase
-![](images/1.png)
 
 ## Additional information
 
