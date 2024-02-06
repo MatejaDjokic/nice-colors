@@ -1,3 +1,7 @@
+## 2.0.0
+
+* Major codebase restructuring.
+
 ## 1.1.2
 
 * New Colors

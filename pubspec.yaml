@@ -1,11 +1,11 @@
 name: nice_colors
 description: "Introducing NiceColors - your go-to solution for adding a touch of elegance to your Flutter projects!"
-version: 1.1.2
+version: 2.0.0
 homepage: https://github.com/MatejaDjokic/nice-colors
 repository: https://github.com/MatejaDjokic/nice-colors
 
 environment:
-  sdk: '>=3.2.6 <4.0.0'
+  sdk: ">=3.2.6 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
