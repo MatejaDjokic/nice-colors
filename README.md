@@ -17,11 +17,3 @@ Import the package:
 import 'package:nice_colors/nice_colors.dart';
 ```
 
-## Usage
-
-```dart
-```
-
-## Additional information
-
-For better understanding, refer to the [example project](https://github.com/MatejaDjokic/nice-colors) in the official git repo.
