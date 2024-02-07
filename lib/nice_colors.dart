@@ -2,8 +2,7 @@ library nice_colors;
 
 import 'dart:ui';
 
-// MAIN GRADIENTS CLASS
-part 'src/gradients/gradients.dart';
+//TODO: MAIN GRADIENTS CLASS
 
 // MAIN COLORS CLASS
 part 'src/nice_colors/colors.dart';
