@@ -1,0 +1,7 @@
+{
+  "COLOROUT": "colors.json",
+  "NC": "src/nice_colors",
+  "NG": "src/nice_gradients",
+  "NCC": "src/nice_colors/color",
+  "SRC": "src"
+}

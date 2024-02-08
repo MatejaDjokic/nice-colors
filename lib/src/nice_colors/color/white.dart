@@ -1,5 +1,6 @@
 part of '../../../nice_colors.dart';
 
 class White {
-  Color fullWhite = const Color(0xffffffff);
+  Color full = const Color(0xffffffff);
+  /*newline*/
 }
