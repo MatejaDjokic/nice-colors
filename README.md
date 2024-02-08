@@ -8,7 +8,7 @@ In your flutter project add the dependency:
 
 ```yaml
 dependencies:
-  nice_colors: ^2.0.1
+  nice_colors: ^2.1.0
 ```
 
 Import the package:

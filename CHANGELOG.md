@@ -1,3 +1,7 @@
+## 2.1.0
+
+* Codebase generation automated through a cli tool
+
 ## 2.0.1
 
 * Major codebase restructuring.
