@@ -31,22 +31,18 @@ Widget lavenderContainer() {
 
  - Colors
     - Black
-      - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
-      - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-      - ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
-      -  <font color="green"> Some green text </font>
-      -  <span style="color:red">■ Full</span> Full
-      -  <oil>■</oil> Oil
-      -  <obsidian>■</obsidian> Obsidian
-      -  <rich>■</rich> Rich
-      -  <slateShadow>■</slateShadow> Slate Shadow
+      - ![](https://placehold.co/20x20/000000/000000.png) Full 
+      - ![](https://placehold.co/20x20/0c0c0c/0c0c0c.png) Oil 
+      - ![](https://placehold.co/20x20/0b1215/0b1215.png) Obsidian 
+      - ![](https://placehold.co/20x20/020d19/020d19.png) Rich 
+      - ![](https://placehold.co/20x20/101415/101415.png) Slate Shadow 
     - Blue
-      - <fullBlue>■</fullBlue> Full
-      - <midnight>■</midnight> Midnight 
-      - <deepNavy>■</deepNavy> Deep Navy
-      - <cloudWisp>■</cloudWisp> Cloud Wisp
-      - <coldSteel>■</coldSteel> Cold Steel
-      - <midnightSapphire>■</midnightSapphire> Midnight Sapphire
+      - ![](https://placehold.co/20x20/0000ff/0000ff.png) Full
+      - ![](https://placehold.co/20x20/101720/101720.png) Midnight 
+      - ![](https://placehold.co/20x20/011220/011220.png) Deep Navy
+      - ![](https://placehold.co/20x20/e7f6ff/e7f6ff.png) Cloud Wisp
+      - ![](https://placehold.co/20x20/e3edf8/e3edf8.png) Cold Steel
+      - ![](https://placehold.co/20x20/0b1623/0b1623.png) Midnight Sapphire
     - Brown
       - <earthlyMocha>■</earthlyMocha> Earthly Mocha
       - <chocolateNoir>■</chocolateNoir> Chocolate Noir
@@ -71,21 +67,6 @@ Widget lavenderContainer() {
     - To be added.
 
 <style>
-  /* BLACK */
-  fullBlack { color:rgba(0,0,0,255) }
-  oil { color:rgba(12,12,12,255) }
-  obsidian { color:rgba(11,18,21,255) }
-  rich { color:rgba(2,13,25,255) }
-  slateShadow { color:rgba(16,20,21,255) }
-  
-  /* BLUE */
-  fullBlue { color:rgba(0,0,255,255) }
-  midnight { color:rgba(16,23,32,255) }
-  deepNavy { color:rgba(1,18,34,255,) } 
-  cloudWisp { color:rgba(231,246,255,255) }
-  coldSteel { color:rgba(227,237,248,255) }
-  midnightSapphire { color:rgba(11,22,35,255) }
-  
   /* BROWN */
   earthlyMocha { color:rgba(17,9,4,255) }
   chocolateNoir { color:rgba(38, 38, 32,255) }
