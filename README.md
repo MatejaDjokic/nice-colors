@@ -31,7 +31,7 @@ Widget lavenderContainer() {
 
  - Colors
     - Black
-      -  <span style="color:rgba(0,0,0,255)">■ Full</span> Full
+      -  <span style="color:red">■ Full</span> Full
       -  <oil>■</oil> Oil
       -  <obsidian>■</obsidian> Obsidian
       -  <rich>■</rich> Rich
