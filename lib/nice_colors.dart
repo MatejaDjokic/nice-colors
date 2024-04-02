@@ -3,16 +3,20 @@ library nice_colors;
 import 'dart:ui';
 
 //? COLORS
+part 'nice_colors/nice_colors.dart';
 
-part 'src/nice_colors/nice_colors.dart';
+part 'nice_colors/colors/black.dart';
+part 'nice_colors/colors/blue.dart';
+part 'nice_colors/colors/brown.dart';
+part 'nice_colors/colors/gray.dart';
+part 'nice_colors/colors/green.dart';
+part 'nice_colors/colors/orange.dart';
+part 'nice_colors/colors/pink.dart';
+part 'nice_colors/colors/purple.dart';
+part 'nice_colors/colors/white.dart';
 
-part 'src/nice_colors/color/black.dart';
-part 'src/nice_colors/color/blue.dart';
-part 'src/nice_colors/color/brown.dart';
-part 'src/nice_colors/color/gray.dart';
-part 'src/nice_colors/color/green.dart';
-part 'src/nice_colors/color/orange.dart';
-part 'src/nice_colors/color/pink.dart';
-part 'src/nice_colors/color/purple.dart';
-part 'src/nice_colors/color/white.dart';
-/*newcolor*/
+//? GRADIENTS
+part 'nice_gradients/nice_gradients.dart';
+
+//? PALETTES
+part 'nice_palettes/nice_palettes.dart';

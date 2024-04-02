@@ -1,4 +1,4 @@
-part of '../../nice_colors.dart';
+part of '../nice_colors.dart';
 
 class NiceColors {
   static get black => Black();
@@ -10,5 +10,4 @@ class NiceColors {
   static get pink => Pink();
   static get purple => Purple();
   static get white => White();
-  /*newline*/
 }
