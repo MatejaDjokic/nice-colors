@@ -23,7 +23,7 @@ import 'package:nice_colors/nice_colors.dart';
 ```dart
 Widget lavenderContainer() {
  return Container(
-    color:NiceColors.purple.lavenderWhip,
+    color: NiceColors.purple.lavenderWhip,
   );
 }
 ```
