@@ -19,6 +19,7 @@ import 'package:nice_colors/nice_colors.dart';
 ```
 
 # Usage
+
 ```dart
 Widget lavenderContainer() {
  return Container(
@@ -44,51 +45,24 @@ Widget lavenderContainer() {
       - ![](https://placehold.co/20x20/e3edf8/e3edf8.png) Cold Steel
       - ![](https://placehold.co/20x20/0b1623/0b1623.png) Midnight Sapphire
     - Brown
-      - <earthlyMocha>■</earthlyMocha> Earthly Mocha
-      - <chocolateNoir>■</chocolateNoir> Chocolate Noir
+      - ![](https://placehold.co/20x20/110904/110904.png) Earthly Mocha
+      - ![](https://placehold.co/20x20/262620/262620.png) Chocolate Noir 
     - Gray
-      - <darkSlate>■</darkSlate> Dark Slate
-      - <charcoal>■</charcoal> Charcoal
+      - ![](https://placehold.co/20x20/0d1717/0d1717.png) Dark Slate 
+      - ![](https://placehold.co/20x20/171717/171717.png) Charcoal 
     - Green
-      - <fullGreen>■</fullGreen> Full
-      - <forestShadow>■</forestShadow> Forest Shadow
+      - ![](https://placehold.co/20x20/00ff00/00ff00.png) Full Green
+      - ![](https://placehold.co/20x20/283b2f/283b2f.png) Forest Shadow
     - Orange
-      - <creame>■</creame> Creame
+      - ![](https://placehold.co/20x20/fef5ea/fef5ea.png) Creame
     - Pink
-      - <candyFloss>■</candyFloss> Candy Floss
+      - ![](https://placehold.co/20x20/ffedfa/ffedfa.png) Candy Floss
     - Purple
-      - <lavenderWhip>■</lavenderWhip> Lavender Whip
-      - <velvetAubergine>■</velvetAubergine> Velvet Aubergine
+      - ![](https://placehold.co/20x20/faf5ff/faf5ff.png) Lavender Whip
+      - ![](https://placehold.co/20x20/190b14/190b14.png) Velvet Aubergine 
     - White
-      - <fullWhite>■</fullWhite> Full
+      - ![](https://placehold.co/20x20/ffffff/ffffff.png) Full
  - Gradients
     - To be added.
  - Palettes
     - To be added.
-
-<style>
-  /* BROWN */
-  earthlyMocha { color:rgba(17,9,4,255) }
-  chocolateNoir { color:rgba(38, 38, 32,255) }
-  
-  /* GRAY */
-  darkSlate { color:rgba(13,23,23,255) }
-  charcoal { color:rgba(23,23,23,255) }
-
-  /* GREEN */
-  fullGreen { color:rgba(0,255,0,255) }
-  forestShadow { color:rgba(40,59,47,255) }
-  
-  /* ORANGE */
-  creame { color:rgba(254,245,234) }
-  
-  /* PINK */
-  candyFloss { color:rgba(255,237,250,255) }
-  
-  /* PURPLE */
-  lavenderWhip { color:rgba(250,245,255,255) }
-  velvetAubergine { color:rgba(25, 11, 20,255) }
-  
-  /* WHITE */
-  fullWhite { color:rgba(255,255,255,255) }
-</style>
