@@ -31,6 +31,7 @@ Widget lavenderContainer() {
 
  - Colors
     - Black
+      -  <font color="green"> Some green text </font>
       -  <span style="color:red">■ Full</span> Full
       -  <oil>■</oil> Oil
       -  <obsidian>■</obsidian> Obsidian
